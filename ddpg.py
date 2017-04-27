@@ -18,8 +18,8 @@ import gym
 from replay_buffer import ReplayBuffer
 from noise import Noise
 from reward import Reward
-from actor_lstm import ActorNetwork
-from critic_lstm import CriticNetwork
+from actor import ActorNetwork
+from critic import CriticNetwork
 
 
 # ==========================
